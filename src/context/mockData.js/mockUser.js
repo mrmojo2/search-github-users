@@ -1,0 +1,37 @@
+
+export default {
+
+  "login": "mrmojo2",
+  "id": 74127740,
+  "node_id": "MDQ6VXNlcjc0MTI3NzQw",
+  "avatar_url": "https://avatars.githubusercontent.com/u/74127740?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrmojo2",
+  "html_url": "https://github.com/mrmojo2",
+  "followers_url": "https://api.github.com/users/mrmojo2/followers",
+  "following_url": "https://api.github.com/users/mrmojo2/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrmojo2/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrmojo2/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrmojo2/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrmojo2/orgs",
+  "repos_url": "https://api.github.com/users/mrmojo2/repos",
+  "events_url": "https://api.github.com/users/mrmojo2/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrmojo2/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "m.r_m0j0",
+  "company": "Bababoye inc",
+  "blog": "nhentai.net",
+  "location": "Bhalupahad",
+  "email": null,
+  "hireable": null,
+  "bio": "waiting for the gift of sound and vision",
+  "twitter_username": "surfinpigeon",
+  "public_repos": 8,
+  "public_gists": 2,
+  "followers": 2,
+  "following": 2,
+  "created_at": "2020-11-08T05:39:22Z",
+  "updated_at": "2023-02-22T06:33:31Z"
+
+}
